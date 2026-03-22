@@ -2,6 +2,16 @@
 
 A desktop memory matching game built in Java using JavaFX. Players flip cards to find matching pairs while tracking score and performance across different themes and difficulty levels.
 
+## Preview
+
+### Welcome Screen
+![Welcome Screen](path/to/your/screenshot.png)
+
+### Demo Videos
+- [Gameplay Demo 1](link-to-video-1)
+- [Gameplay Demo 2](link-to-video-2)
+
+
 ## Features
 - JavaFX graphical user interface
 - Multiple card themes
