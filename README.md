@@ -5,11 +5,12 @@ A desktop memory matching game built in Java using JavaFX. Players flip cards to
 ## Preview
 
 ### Welcome Screen
-![Welcome Screen](path/to/your/screenshot.png)
+![Welcome Screen](intro_screen_mg.png)
 
 ### Demo Videos
-- [Gameplay Demo 1](link-to-video-1)
-- [Gameplay Demo 2](link-to-video-2)
+- [Gameplay Demo 1](https://youtu.be/eXZRN0AKiH4)
+- [Gameplay Demo 2](https://youtu.be/D5I4m-RwI1w)
+
 
 
 ## Features
